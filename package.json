@@ -1,0 +1,14 @@
+{
+  "name": "blast-nomor",
+  "version": "1.0.0",
+  "description": "Bot Telegram Blast Nomor - broadcast ke kontak opt-in",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "telegraf": "^4.16.3"
+  }
+}
